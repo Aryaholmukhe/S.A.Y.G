@@ -1,0 +1,158 @@
+.sayg {
+/* margin: auto;
+  font-size: 4rem;
+  font-family: cursive;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 100%;*/
+
+}
+.imag{
+  max-width: 100%;
+  background-color: black;
+}
+.extraBlack{
+  background: linear-gradient(black, rgba(255,0,0,0) 50%); ;
+  padding: 10rem;
+}
+
+
+
+body{
+background: linear-gradient(to right, #a7c5eb 15% , #ffc85c , #bedcfa 55%, #fdcfdf );
+text-align: center;
+}
+
+.hr {
+    border: dotted #433d3c 20px;
+    border-bottom: none;
+    background-color: rgba(255,0,0,0);
+    width: 8%;
+    margin: 40px auto;
+}
+
+.vid {
+  text-align: center;
+  font-size: 3rem;
+  color: black;
+  font-family: "single day";
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.credits{
+  text-align: right;
+  padding-right: 250px;
+  font-family: 'Lovers Quarrel', cursive;
+  font-size: 3.5rem;
+}
+
+.footer {
+  color: #f4f4f2;
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 70px;
+  background: black;
+}
+
+.pic {
+max-width: 40%;
+max-height: 60%;
+padding: 2%;
+border-radius: 13%;
+}
+
+.pic:hover{
+background: #fff5ea;
+}
+
+.pics {
+text-align: center;
+}
+.photos{
+  font-family: "Lovers Quarrel";
+  font-size: 900%;
+}
+
+
+.row{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.arya{
+  margin: auto;
+}
+
+.yuliya{
+margin-left: 15%;
+}
+
+.gaeun{
+  margin: auto;
+}
+
+.sieun{
+  margin-left: 5%
+}
+
+.name{
+  font-family: "single day";
+  font-size: 2.5rem;
+}
+
+.info{
+  font-family: "cute font";
+  font-size: 250%;
+  padding-bottom: 4rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.dp{
+  border-radius: 100%;
+  width: 300px;
+  height: 300px;
+}
+
+.right{
+  font-family: 'Yusei Magic', sans-serif;
+  text-align: right;
+  padding-right: 20%;
+  padding-bottom:1%;
+  padding-top: 3%;
+}
+
+.left{
+font-family: 'Yusei Magic', sans-serif;
+  padding: 3% 1% 5% 5%;
+  margin-right:10%;
+  font-size: 10rem;
+  border-top: 3px solid black;
+  border-right: 2px solid white;
+  border-bottom: 1px solid grey;
+}
+
+.arrows{
+  font-size: 6rem;
+}
+
+.emojis{
+  font-size: 3rem;
+}
+
+.middle{
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.line{
+  margin: 150px 0% auto;
+}
+
+.giphy-embed{
+  max-width: 81%;
+  max-height: 81%;
+  margin-left: 50%;
+  margin-right: 50%;
+}
